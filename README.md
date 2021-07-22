@@ -1,7 +1,7 @@
 # WebSessionData-EDA-PCA-Prediction
 
 
-Exploratory data analysis, dimensionality reduction and logistic regression model building based around tracked web session data with ~1000 entries and 60+ features.  
+Exploratory data analysis, dimensionality reduction and logistic regression model building using tracked web session data with ~1000 entries and 60+ features.  
 
 
 Included are two Python Jupyter Notebooks: 
